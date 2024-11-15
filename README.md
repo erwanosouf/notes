@@ -117,7 +117,105 @@ Ne pas passer plus de temps à évaluer la sévérité qu'à traiter l'incident 
 
 [Slides](https://fr.slideshare.net/slideshow/alerte-tout-brule-comment-gerer-des-incidents-techniques-breizhcamp-2024-2024-06-28/269945182)
 
-### Resources
+### Formation Arolla - Domain Driven Design
+
+Importance de la communication
+https://www.infoq.com/minibooks/conversation-patterns/
+
+"C'est la compréhension du métier par les devs qui part en prod"
+Manière de vendre le DDD
+
+Dev et PM au même niveau
+
+
+-> Connaissance Métier 
+-> Extraction
+-> Modélisation (abstraction = compression avec perte -> dans le but de garder compréhensible maintenable)
+-> Code
+
+
+DDD Code
+ - No Frameworks, No Logger, No SQL
+ - No Nulls : Optional<Object>, Null Object Pattern
+
+Object Calisthenics
+
+Le code sert de vélo pour le cerveau -> Le code donne des insights sur le métier (ex. bug -> traduit un manque métier)
+
+Differentiateur : DDD
+Pas differentiateur : pas DDD, mais surtout à ne pas coder soi même 
+Dans ce cas là on s'adapte au process de l'outil choisi.
+
+
+Heuristiques de découpage : 
+ - Champs Lexicaux
+ - Purpose
+ - Gestion des dépendances (Runtime : instrumentation, Static : commit correlation)
+ - Caractéritistiques techniques (Taille, Disponibilité, Pression)
+ - Nature (Logical, Physical, Potential, Symbolic ...)
+ - Cardinalité : Singular, Plural
+ - Descriptif vs Prescriptif
+
+PIM : Product Inventory Management
+
+
+## Notes
+
+Taking notes : 
+- Safari des mots : souligner les nouveaux mots
+- Guetter les synonymes et demander à préciser la différence
+- Avoir un minimum de connaissance
+- Challenger
+
+"Le danger d'une communication c'est l'illusion qu'elle s'est bien passée"
+
+souligner les mots nouveaux / remarques entre [] / questions avec "?" ou "Q:"
+Prioriser les questions
+-> Why ?
+Faire préciser le but, et remonter au vrai but
+
+Question Everything. Why ?
+
+Toujours demander un Exemple concret
+
+"Dans quel cas ce serait pas vrai ?" : les invariants donnent de bonnes indications de concepts supplémentaires
+
+Creuser un domaine : Synonyme et Invariant
+
+Synonyme -> Différents Bounded Contexts
+
+"Cunningham's Law"
+Cunningham is credited with the idea: "The best way to get the right answer on the Internet is not to ask a question; it's to post the wrong answer."
+
+
+
+Le dernier mot au PM en cas de désaccord
+
+Obsession DDD : 
+ - le langage
+ - la réalité (comme elle est et pas comme on voudrait)
+ - l'identification (pas de traduction, mapping métier-technique 1 pour 1)
+
+Ennemi n1 : le coût de coordination
+
+
+
+Seperate ways
+Integration : Upstream / Downstream -> dépendant du flux de valeur (indépendant du sens des données au de qui appele qui )
+Api d'envoi de sms, on envoie des données pourtant on est downstream.
+
+# Design Tactique
+
+Classe qui raconte le métier 
+Signal to Noise Ratio >= 80%
+
+CashFlow vs CashFlow*Builder*
+
+Object Newable vs Injectable
+VO / Entity : Newable
+Service : Injectable
+
+## Resources
 
 - [The 8 Steps for Leading Change - John P. Kotter](https://www.kotterinc.com/methodology/8-steps/)
 - [Leading change - John P. Kotter](https://www.amazon.fr/dp/1422186431)
