@@ -219,5 +219,7 @@ Service : Injectable
 
 - [The 8 Steps for Leading Change - John P. Kotter](https://www.kotterinc.com/methodology/8-steps/)
 - [Leading change - John P. Kotter](https://www.amazon.fr/dp/1422186431)
-
-
+- [Analysis Patterns: Reusable Object Models
+](https://www.oreilly.com/library/view/analysis-patterns-reusable/9780134271453/)
+- [Software Design X-Rays - Adam Tornhill](https://pragprog.com/titles/atevol/software-design-x-rays/)
+- [CodeScene](https://codescene.com)
