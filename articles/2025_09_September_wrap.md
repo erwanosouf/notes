@@ -1,0 +1,1 @@
+https://www.linkedin.com/posts/ghohpe_every-architecture-team-has-a-brand-few-activity-7363577989210492929-oiKM?utm_source=share&utm_medium=member_android&rcm=ACoAAAmX4hQBUuR-mBqlTHv0U7YoCG6BqPncR5c
