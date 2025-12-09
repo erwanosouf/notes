@@ -50,3 +50,29 @@ Définir le niveau à chaque Phase.
 
 Phase A et ré-évaluation en Phase E (en tirant partie des informations dans les Phases B, C, D).
 
+## Application
+
+<img width="1217" height="552" alt="image" src="https://github.com/user-attachments/assets/d3de42f9-b7e2-42ed-87d4-f4686067b731" />
+
+### Itération
+
+ - Pour gérer un "Paysage d'Architecture"
+ - Au sein d'une Phase
+ - Pour gérer la capacité d'Architecture
+
+"ADM dans l'ADM"
+
+
+### Partitionnement
+
+Architecture Stratégique
+Architecture de Segment
+Architecture de Capacité
+
+### Finalités
+
+- Architecture au niveau Stratégique
+- Architecture au niveau Portefeuille
+- Architecture au niveau Projet
+- Architecture au niveau Livraison de la Solution
+
