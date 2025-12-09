@@ -48,17 +48,6 @@ Ex : requis métier (B) -> Faisabilité Technique impossible (D) -> Nouvelle Exi
 
 ### Phases
 
-- Phase Préliminaire
-- Phase A : Vision d'Architecture
-- Phase B : Architecture Métier
-- Phase C : Architecture de Données
-- Phase D : Architecture Applicative
-- Phase E : Opportunités et Solutions
-- Phase F : Planification de la Migration
-- Phase G : Gouvernance de la Mise en Œuvre
-- Phase H : Gestion du Changement Architectural
-
-
 Pour chaques phases :
  - Objectifs
  - Démarche (Etapes)
