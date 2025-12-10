@@ -75,6 +75,9 @@ Définir la capacité d'Architecture souhaitée :
  - Périmètre (incl. Metamodel)
  - Gouvernance
 
+-> Cadre d'Architecture Contextualisé
+
+
 Mettre en place la capacité d'architecture
 
 Livrables📗 :
@@ -100,7 +103,7 @@ Livrables📗 :
 #### Phase B, C, D : Architecture Business / Système d'Information / Technologique
 
 B : Business
-C : Système d'Information + Data
+C : Système d'Information = Applications + Données
 D : Technologique
 
 Sur les quatres domaines : 
