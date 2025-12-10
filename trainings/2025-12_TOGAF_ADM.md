@@ -56,14 +56,16 @@ Pour chaques phases :
 
 ⚠️ QCM : Livrables "Ebauche" ou "Approuvés" 
 
-Livrables sortants peuvent être modifiés à posteriori.
+Livrables sortants peuvent être modifiés à posteriori, et même après validation.
+
+Le cycle de vie est géré par un mode de **versioning** conventionés par l'Entreprise.
 
 Validations :
 - En sortie de A (Architecture Vision) -> Validation de l'intégralité des Parties Prenantes, du besoin, des contraintes, des budgets ...
 - En sortie de F (Migration Planning) -> Planning Général et Chiffrage (Ressources, Activités et Coûts)
 
 ⚠️ Technique : Alternatives d'Architecture
-Fonction de la Vision, des Principes et des Requis
+Fonction de la Vision, des Principes et des Exigences
 
 
 #### Phase Préliminaire
