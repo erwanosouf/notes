@@ -54,13 +54,14 @@ Pour chaques phases :
  - Entrants et Sortants (Livrables)
  - Techniques
 
-⚠️ QCM : Livrables "Ebauche" ou "Approuvés" 
+⚠️ QCM : 
+Les Livrables ont 2 statuts possibles "Ebauche" ou "Approuvés" 
 
 Livrables sortants peuvent être modifiés à posteriori, et même après validation.
 
 Le cycle de vie est géré par un mode de **versioning** conventionné par l'Entreprise.
 
-Validations :
+Validations (de l'intégrité, pas des livrables) :
 - En sortie de A (Architecture Vision) -> Validation de l'intégralité des Parties Prenantes, du besoin, des contraintes, des budgets ...
 - En sortie de F (Migration Planning) -> Planning Général et Chiffrage (Ressources, Activités et Coûts)
 
