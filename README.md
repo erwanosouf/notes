@@ -2,6 +2,12 @@
 
 This repo will become more structured along the way
 
+## Mantras
+
+ - [If it hurts, do it more often](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
+ - Make the Implict Explicit
+ - Focus on the "Why"
+
 ## Events and Trainings
 
 - [BDX IO (2024-11-08)](events/2024-11-08_BDX_IO.md)
