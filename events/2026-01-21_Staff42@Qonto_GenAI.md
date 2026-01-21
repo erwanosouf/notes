@@ -71,6 +71,32 @@ Impact : Dora, Datadog custom Scorecard
 
 Optimization : ensure effective usage, cost optimization
 
+## BlaBlaCar - Photo Modération 
+
+### 2019
+
+55k photos moderation
+25% refus 
+12 FTE
+
+### 2022 
+
+Deep learning 
+Target 80/20 auto/manual
+Still costly
+Regular Retraining 
+
+### 2025 
+
+Are LLM capable of moderating photos ? 
+
+Custom Model -> LLM + prompt
+
+
+
+
+
+
 
 
 
