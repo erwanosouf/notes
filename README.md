@@ -17,6 +17,7 @@ This repo will become more structured along the way
   - [Jour 2](events/2025-04-17_Devoxx_Day2.md)
   - [Jour 3](events/2025-04-18_Devoxx_Day3.md)
 - [Meetup Staff42 @ Qonto - GenAI (2026-01-21)](events/2026-01-21_Staff42@Qonto_GenAI.md)
+- [FlowCon 2026 - Slow down to speed up your decision-making (2026-04-21)](events/2026-04-21_FlowCon_Decision_Making.md)
 
 ## Articles
 
