@@ -24,6 +24,7 @@ This repo will become more structured along the way
 - [FlowCon 2026 - Les sociétés AI natives (2026-03-31)](events/2026-03-31_FlowCon_AI_Native_Societies.md)
 - [FlowCon 2026 - Debiasing Your Software Design Decision-Making (2026-04-01)](events/2026-04-01_FlowCon_Debiasing.md)
 - [FlowCon 2026 - Jidoka in Lean Engineering (2026-04-01)](events/2026-04-01_FlowCon_Jidoka_Lean_Engineering.md)
+- [FlowCon 2026 - La taille des éléments de travail ça compte ? (2026-04-01)](events/2026-04-01_FlowCon_La_Taille_Des_Elements.md)
 
 ## Articles
 
