@@ -26,6 +26,7 @@ This repo will become more structured along the way
 - [FlowCon 2026 - Jidoka in Lean Engineering (2026-04-01)](events/2026-04-01_FlowCon_Jidoka_Lean_Engineering.md)
 - [FlowCon 2026 - La taille des éléments de travail ça compte ? (2026-04-01)](events/2026-04-01_FlowCon_La_Taille_Des_Elements.md)
 - [FlowCon 2026 - L'art délicat de piloter 20 équipes sans se faire huer (2026-04-01)](events/2026-04-01_FlowCon_Piloter_20_Equipes.md)
+- [FlowCon 2026 - La DevEx : quand l'expérience compte (2026-04-01)](events/2026-04-01_FlowCon_DevEx.md)
 
 ## Articles
 
