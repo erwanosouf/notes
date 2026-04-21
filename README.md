@@ -19,6 +19,7 @@ This repo will become more structured along the way
 - [Meetup Staff42 @ Qonto - GenAI (2026-01-21)](events/2026-01-21_Staff42@Qonto_GenAI.md)
 - [FlowCon 2026 - Slow down to speed up your decision-making (2026-03-31)](events/2026-03-31_FlowCon_Decision_Making.md)
 - [FlowCon 2026 - Rinse-less brushing : une histoire de pratiques (2026-03-31)](events/2026-03-31_FlowCon_Rinse_Less_Brushing.md)
+- [FlowCon 2026 - First kill all the Thought Leaders (2026-03-31)](events/2026-03-31_FlowCon_Kill_Thought_Leaders.md)
 
 ## Articles
 
