@@ -21,6 +21,7 @@ This repo will become more structured along the way
 - [FlowCon 2026 - Rinse-less brushing : une histoire de pratiques (2026-03-31)](events/2026-03-31_FlowCon_Rinse_Less_Brushing.md)
 - [FlowCon 2026 - First kill all the Thought Leaders (2026-03-31)](events/2026-03-31_FlowCon_Kill_Thought_Leaders.md)
 - [FlowCon 2026 - Sociotechnical Architecture: Finding Flow (2026-03-31)](events/2026-03-31_FlowCon_Sociotechnical_Architecture.md)
+- [FlowCon 2026 - Les sociétés AI natives (2026-03-31)](events/2026-03-31_FlowCon_AI_Native_Societies.md)
 - [FlowCon 2026 - Debiasing Your Software Design Decision-Making (2026-04-01)](events/2026-04-01_FlowCon_Debiasing.md)
 
 ## Articles
