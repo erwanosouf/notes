@@ -16,6 +16,7 @@ This repo will become more structured along the way
   - [Jour 1](events/2025-04-16_Devoxx_Day1.md)
   - [Jour 2](events/2025-04-17_Devoxx_Day2.md)
   - [Jour 3](events/2025-04-18_Devoxx_Day3.md)
+- [Meetup Staff42 @ Qonto - GenAI (2026-01-21)](events/2026-01-21_Staff42@Qonto_GenAI.md)
 
 ## Articles
 
