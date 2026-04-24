@@ -31,3 +31,4 @@ This repo will become more structured along the way
 ## Articles
 
 - [Tech Radar 32](articles/2025-04-23_Tech_Radar_32.md)
+- [Tech Radar 34](articles/2026-04-24_Tech_Radar_34.md)
