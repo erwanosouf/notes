@@ -28,6 +28,20 @@ The talk is a step back from frameworks and methods: it looks at the beliefs abo
 
 💡 For architecture: our diagrams, models and frameworks can turn into simulacra. We end up working on the model rather than on the real (complex, unpredictable) system and its environment.
 
+### Linear and Lateral Thinking
+
+| Linear thinking | Lateral thinking |
+|---|---|
+| George Polya, *How to Solve It*: "a system of thinking to help you solve any problem" | Edward de Bono, *Lateral Thinking: An Introduction* |
+| Step-by-step method: understand the problem, make a plan, carry out the plan, look back | Deliberately leave the obvious path to look at the problem from unexpected angles (provocation, random entry points) |
+| Works well for well-defined problems | Useful when the problem itself is poorly understood |
+
+### Deleuze — Difference and Repetition: the architectural walk
+
+- Reference: Gilles Deleuze, *Différence et Répétition* (1968).
+- Deleuze puts **difference** first, rather than identity: things aren't copies of a stable model. Each repetition brings something new.
+- **Architectural walk**: going over the architecture again and again. Each pass isn't an identical repeat: it shows differences and new aspects of the system.
+
 ### Why we can't trust our CS education
 
 - Computer Science education tends to pass on a mechanistic, reductionist worldview implicitly: the world can be decomposed, modelled and predicted.
@@ -39,18 +53,26 @@ The talk is a step back from frameworks and methods: it looks at the beliefs abo
 ### Books
 - *The Structure of Scientific Revolutions*, Thomas S. Kuhn (1962)
 - *Simulacra and Simulation* (*Simulacres et Simulation*), Jean Baudrillard (1981)
+- *Difference and Repetition* (*Différence et Répétition*), Gilles Deleuze (1968)
+- *How to Solve It*, George Polya (1945)
+- *Lateral Thinking: An Introduction*, Edward de Bono
 - *Residues: Time, Change, and Uncertainty in Software Architecture*, Barry O'Reilly
 
 ### People
 - **Barry O'Reilly**: software architect, former Chief Architect at Microsoft, creator of Residuality Theory, PhD research in complexity science and software design
 - **Thomas Kuhn**: historian and philosopher of science
 - **Jean Baudrillard**: French philosopher and sociologist
+- **Gilles Deleuze**: French philosopher
+- **George Polya**: mathematician, known for his work on problem solving and heuristics
+- **Edward de Bono**: creator of the term "lateral thinking"
 - **Jorge Luis Borges**: author of *On Exactitude in Science* (the map that covers the whole territory)
 
 ### Concepts
 - **Paradigm / paradigm shift** (Kuhn): the shared frame of a scientific community, and how it gets replaced through a revolution
 - **Incommensurability** (Kuhn): competing paradigms cannot be fully compared using shared criteria
 - **Simulacrum / hyperreality** (Baudrillard): a representation that has replaced the reality it refers to
+- **Linear vs lateral thinking** (Polya / de Bono): step-by-step problem solving vs indirect, creative reframing
+- **Difference and repetition** (Deleuze): repetition always produces difference. This is the basis of the "architectural walk"
 - **Positivism / reductionism**: the belief that the world can be known through decomposition, measurement and prediction
 - **Residuality Theory** (O'Reilly): designing architectures by stressing them against random stressors rather than trying to predict the future
 
