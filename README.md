@@ -29,6 +29,11 @@ This repo will become more structured along the way
 - [FlowCon 2026 - L'art délicat de piloter 20 équipes sans se faire huer (2026-04-01)](events/2026-04-01_FlowCon_Piloter_20_Equipes.md)
 - [FlowCon 2026 - La DevEx : quand l'expérience compte (2026-04-01)](events/2026-04-01_FlowCon_DevEx.md)
 
+## Videos
+
+- [NDC Oslo 2024 - The Philosophy of Architecture, Barry O'Reilly (2024-06)](videos/2024-06_NDC_Oslo_Philosophy_of_Architecture.md)
+- [Décembre 2025 (2025-12)](videos/2025-12-Videos.md)
+
 ## Articles
 
 - [Tech Radar 32](articles/2025-04-23_Tech_Radar_32.md)
