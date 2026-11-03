@@ -17,6 +17,7 @@ This repo will become more structured along the way
   - [Jour 2](events/2025-04-17_Devoxx_Day2.md)
   - [Jour 3](events/2025-04-18_Devoxx_Day3.md)
 - [Meetup Staff42 @ Qonto - GenAI (2026-01-21)](events/2026-01-21_Staff42@Qonto_GenAI.md)
+- [Agile Meets Architecture 2026 - How to navigate resistance by playing with the elephant in the room (2026-03)](events/2026-03_AMA_Navigate_Resistance.md)
 - [FlowCon 2026 - Slow down to speed up your decision-making (2026-03-31)](events/2026-03-31_FlowCon_Slow_Down_Speed_Up_Decision_Making.md)
 - [FlowCon 2026 - Rinse-less brushing : une histoire de pratiques (2026-03-31)](events/2026-03-31_FlowCon_Rinse_Less_Brushing.md)
 - [FlowCon 2026 - First kill all the Thought Leaders (2026-03-31)](events/2026-03-31_FlowCon_Kill_Thought_Leaders.md)
